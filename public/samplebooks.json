@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Great Gatbsy",
+    "author": "F. Scott Fitzgerald",
+    "description": "Jay Gatsby, a self-made millionaire, passionately pursues the elusive Daisy Buchanan.",
+    "pages": 218,
+    "progress": 40,
+    "rating": 3
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "description": "The socially significant novel about the hardships of a dispossessed family in Oklahoma during the Depression.",
+    "pages": 462,
+    "progress": 240,
+    "rating": 3
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "description": "George Orwell's nightmare vision of a totalitarian, bureaucratic world",
+    "pages": 328,
+    "progress": 97,
+    "rating": 4
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "description": "Presents the contemporary classic depicting the struggles of a United States airman",
+    "pages": 453,
+    "progress": 21,
+    "rating": 5
+  },
+  {
+    "title": "Catcher in the Rye",
+    "author": "J.D Salinger",
+    "description": "In an effort to escape the hypocrisies of life at his boarding school, sixteen-year-old Holden Caulfield seeks refuge in New York City.",
+    "pages": 277,
+    "progress": 241,
+    "rating": 4
+  }
+]

@@ -1,0 +1,101 @@
+html {
+    height: 100;
+}
+
+body {
+    background: #FAF9F9;
+}
+
+header .jumbotron {
+    background: linear-gradient( rgb(73, 126, 123), #BEE3DB 250%);
+    font-family: 'Roboto', sans-serif;
+}
+
+main .btn {
+    border-radius: 40px;
+    color: #89B0AE;
+    border-color: #89B0AE;
+    background: #FAF9F9;
+    margin-bottom: 0.35rem;
+}
+
+main .btn:hover {
+    color: #FAF9F9;
+    background: #89B0AE;
+    border-color: #FAF9F9;
+}
+
+h1, h3, p {
+    color: #555B6E;
+}
+
+.jumbotron div h1 {
+    color: #DAD3D3;
+}
+
+.jumbotron div p {
+    color: whitesmoke;
+}
+
+
+.fa-star {
+    color: goldenrod;
+}
+
+main .cancel {
+    color: #FFA970;
+    border-color: #FFA970;
+}
+
+main .cancel:hover {
+    color: #FAF9F9;
+    background-color: #FFA970;
+}
+
+main .card {
+    font-family: 'Noto Sans JP', sans-serif;
+    box-shadow: 3px 7px 5px rgba(137, 176, 174, 0.5), -3px 0px 5px rgba(137, 176, 174, 0.30);
+    border-radius: 15px;
+}
+
+#book-title, #book-detail {
+    font-size: large;
+    color: #555B6E;
+    font-weight: bold;
+}
+
+#save-button:disabled {
+    background-color: lightgray;
+    border-color: lightgray;
+}
+
+.book-img {
+    display: none;
+}
+
+.copyright {
+    display: inline;
+}
+
+@media (min-width: 720px) {
+    
+    header .jumbotron {
+    background-image: url('./library.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+    .book-img {
+        display: block;
+    }
+
+    .jumbotron div p {
+        color: #121317;
+        font-size: large;
+    }
+
+    .jumbotron div h1 {
+        color: #555B6E;
+    }
+
+}
